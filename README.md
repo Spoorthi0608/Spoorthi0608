@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spoorthi0608" alt="spoorthi0608" /></a> </p>
 
-- 🔭 I’m currently working on **Embedded Systems & VLSI**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **VLSI & other programming languages**
+- 🌱 I’m currently learning **AI and Machine Learning , Data Analysis**
 
-- 👯 I’m looking to collaborate on **Embedded systems & VLSI**
+- 👯 I’m looking to collaborate on **AI & ML**
 
 - 📫 How to reach me **spoorthiramesh06@gmail.com**
 
