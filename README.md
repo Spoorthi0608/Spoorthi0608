@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Spoorthi R C</h1>
-<h3 align="center">A passionate Electronics Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spoorthi0608&label=Profile%20views&color=0e75b6&style=flat" alt="spoorthi0608" /> </p>
 
